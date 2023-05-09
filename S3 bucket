@@ -1,0 +1,1 @@
+aws s3api create-bucket --bucket S3-niki-aws-26 --create-bucket-configaration ap-south-1 --region ap-south-1
